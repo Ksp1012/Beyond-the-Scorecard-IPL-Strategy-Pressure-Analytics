@@ -11,8 +11,8 @@ Designed with **interview readiness** in mind, the project demonstrates strong c
 
 ## 🧩 Dataset
 
-**Source:** Kaggle (Cricsheet-derived IPL dataset, 2008–2025)  
-**Records:** 200,000+ ball-by-ball events  
+**Source:** Kaggle (Cricsheet-derived IPL dataset, 2008–2025)  (link : https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025?resource=download )
+**Records:** 200,000+ ball-by-ball events with 64 columns
 
 ### Core Tables
 - `ipl_data` → raw imported dataset  
